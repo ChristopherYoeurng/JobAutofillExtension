@@ -1,0 +1,10 @@
+{
+  "manifest_version": 1,
+  "name": "Job Autofill Extension",
+  "description": "Autofills job applications with your information, filling in response sections with the GPT API.",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_icon": "images/autofill-extension.png"
+  }
+}
